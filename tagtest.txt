@@ -5,3 +5,5 @@
 推送到远程：git origin push v1.0.1
 删除标签：git tag -d v1.0.1
 提交标签信息：git tag -a name -m "提交标签";
+
+soucreTree客户端打标签
